@@ -1,0 +1,10 @@
+C:\Users\76957\source\repos\Mazerunner\Mazerunner\bin\Debug\Mazerunner.exe.config
+C:\Users\76957\source\repos\Mazerunner\Mazerunner\bin\Debug\Mazerunner.exe
+C:\Users\76957\source\repos\Mazerunner\Mazerunner\bin\Debug\Mazerunner.pdb
+C:\Users\76957\source\repos\Mazerunner\Mazerunner\obj\Debug\Mazerunner.csprojAssemblyReference.cache
+C:\Users\76957\source\repos\Mazerunner\Mazerunner\obj\Debug\Mazerunner.Form1.resources
+C:\Users\76957\source\repos\Mazerunner\Mazerunner\obj\Debug\Mazerunner.Properties.Resources.resources
+C:\Users\76957\source\repos\Mazerunner\Mazerunner\obj\Debug\Mazerunner.csproj.GenerateResource.cache
+C:\Users\76957\source\repos\Mazerunner\Mazerunner\obj\Debug\Mazerunner.csproj.CoreCompileInputs.cache
+C:\Users\76957\source\repos\Mazerunner\Mazerunner\obj\Debug\Mazerunner.exe
+C:\Users\76957\source\repos\Mazerunner\Mazerunner\obj\Debug\Mazerunner.pdb
